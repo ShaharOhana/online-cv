@@ -20,14 +20,11 @@ sidebar:
           level: Professional
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Full stack developer with demonstrated achievements at designing and programming scalable software solutions.
+      Experienced in integration, streamlining and long-term support of existing projects.
+      Proficient in various programming languages and adept at a wide range of programming tools and environments.
 education:
     title: Education
     info:
@@ -47,9 +44,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Full Stack Developer
+        time: Aug 2023 - Present
+        company: Israeli Military Intelligence - 8200 Unit
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -62,9 +59,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Backend Developer
+        time: Oct 2021 - Aug 2023
+        company: Israeli Military Intelligence - 8200 Unit
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -73,9 +70,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Backend Developer
+        time: Aug 2019 - Oct 2021
+        company: Israeli Military Intelligence - 8200 Unit
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,20 +86,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+      - name: Developing backend services in Linux environments
+      - name: Git (Bitbucket, Gitlab, Github)
+      - name: Docker, K8S, Helm
+      - name: TypeScript, JavaScript, React, Sass/CSS
+      - name: SQL & NoSQL Databases (Oracle, MySQL, SQLite, Mongo, Redis, ELK)
+      - name: CI/CD (Jenkins, Gitlab CI)
