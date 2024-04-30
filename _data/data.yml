@@ -48,39 +48,23 @@ experiences:
         time: Aug 2023 - Present
         company: Israeli Military Intelligence - 8200 Unit
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Developed and maintained open-source system for realtime monitoring over several Kafka topics.
+            Improved system performance via identifying and resolving major bottlenecks.
+          - Streamlining opensource system meant for straightforward programming of React component based configurations. 
+            Improving upon the system UI/UX both in runtimes and in GUI.
       - role: Backend Developer
         time: Oct 2021 - Aug 2023
         company: Israeli Military Intelligence - 8200 Unit
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Developed an open-source, pluginable system that allows users to automate their tasks effortlessly.
+            This platform seamlessly distributes across multiple networks and environments, offering users a simple and intuitive way to streamline their processes.
+          - Collaborated with costumers to design a solution for autonomous deployment for their Python plugins and developed it.
       - role: Backend Developer
         time: Aug 2019 - Oct 2021
         company: Israeli Military Intelligence - 8200 Unit
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Upkeep of system composed of micro services meant for parsing and distribution to other services.
+          - Designing and implementing solutions for easing technical debts in Python package containing parsing logic for various discreet files in different formats.
 
 skills:
     title: Skills &amp; Proficiency
