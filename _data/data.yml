@@ -71,6 +71,7 @@ skills:
 
     toolset:
       - name: Python
+      - name: Confluent Kafka
       - name: Developing backend services in Linux environments
       - name: Git (Bitbucket, Gitlab, Github)
       - name: Docker, K8S, Helm
